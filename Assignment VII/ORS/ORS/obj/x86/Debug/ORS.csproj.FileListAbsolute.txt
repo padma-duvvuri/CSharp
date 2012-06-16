@@ -1,0 +1,22 @@
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\bin\Debug\ORS.exe
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\bin\Debug\ORS.pdb
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\ORS.Form1.resources
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\ORS.Properties.Resources.resources
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\ORS.exe
+c:\users\radhakrishna\documents\visual studio 2010\Projects\ORS\ORS\obj\x86\Debug\ORS.pdb
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.exe
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.pdb
+C:\padma-projects\C#\Assignment VII\ORS\ORS\bin\Debug\ORS.exe
+C:\padma-projects\C#\Assignment VII\ORS\ORS\bin\Debug\ORS.pdb
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.Properties.Resources.resources
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.AboutBox.resources
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.MainForm.resources
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.CustomerForm.resources
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.SelectTimeForm.resources
+C:\padma-projects\C#\Assignment VII\ORS\ORS\obj\x86\Debug\ORS.TransportationForm.resources
